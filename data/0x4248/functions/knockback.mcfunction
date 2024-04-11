@@ -1,6 +1,6 @@
 # Knockback
 # My minecraft resource pack with a few functions
-# Github: https://www.github.com/lewisevans2007/datapack
+# Github: https://www.github.com/0x4248/datapack
 # By Lewis Evans
 
 give @s minecraft:stick{display:{Name:"{\"text\":\"Knockback Stick 1\",\"color\":\"dark_purple\",\"italic\":false}"},Enchantments:[{id:"minecraft:knockback",lvl:1s}]} 1

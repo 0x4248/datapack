@@ -10,6 +10,6 @@ If you are running the game then type `/reload` in chat.
 
 ## Usage
 
-To use this datapack type `/function lewisevans2007:<function>` in chat.
+To use this datapack type `/function 0x4248:<function>` in chat.
 
-To list all the functions in this pack type `/function lewisevans2007:list` in chat.
+To list all the functions in this pack type `/function 0x4248:list` in chat.
